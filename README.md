@@ -18,7 +18,7 @@ Required files:
   - this is part of the link with the table
   - the owner of the table must give the account permission to read/edit the desired table
 
-- groupInfo.json
+- vkInfo.json
 
   the token must have permission for messages and the wall of the group
 
