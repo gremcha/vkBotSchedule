@@ -1,0 +1,2 @@
+vk_api
+google-api-python-client
